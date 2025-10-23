@@ -1,18 +1,14 @@
-![release](https://img.shields.io/github/v/release/Tundrak/IPTV-Italia) ![downloads](https://img.shields.io/github/downloads/Tundrak/IPTV-Italia/total) ![size](https://img.shields.io/github/repo-size/Tundrak/IPTV-Italia)
 # IPTV-Italia
 Questa repository contiene tutti i link ai principali canali TV e Radio nazionali italiani in tre file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia. Intendo aggiornare i link non funzionanti o aggiungere nuovi canali se vedo commenti che lo chiedono ed è nelle mie capacità farlo legalmente.
 
 This repository contains all the links to the main national Italian TV and Radio channels in two m3u files to be used with any program that supports opening playlist files. The links are all extrapolated from the official streams, so they should only be legally watchable within Italy. I intend to update broken links or add new channels if I see comments asking for it and it is within my capabilities to do so legally.
 
 # Come usarla
-Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scarica la versione più recente delle playlist. Poi aprile con il tuo Media Player preferito (ad esempio PotPlayer o MyIPTV Player).  
-**Alternativo**: copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file.
-(**iptvitaplus** contiene tutti i canali in iptvita, e inoltre include loghi e gruppi per i lettori più avanzati)
+Scarica la versione più recente delle playlist, poi aprile con il tuo Media Player preferito (ad esempio PotPlayer o MyIPTV Player). In alternativa copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file.
 
-|    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
+|    **iptvita.m3u**  |   https://raw.githubusercontent.com/federicoserraino/IPTV-Italia/refs/heads/main/iptvita.m3u   |
 |--------------------:|:----------------------------------------------------------------:|
-| **iptvitaplus.m3u** | https://github.com/Tundrak/IPTV-Italia/raw/main/iptvitaplus.m3u  |
-| **ipradioita.m3u**  |  https://github.com/Tundrak/IPTV-Italia/raw/main/ipradioita.m3u  |
+| **ipradioita.m3u**  |  https://raw.githubusercontent.com/federicoserraino/IPTV-Italia/refs/heads/main/ipradioita.m3u  |
 
 # Cosa contiene
 Al momento i due file contengono i seguenti canali TV e radio:
