@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+###https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma_1800-5000.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
@@ -20,13 +21,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/la7.png" group-title="Altro",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1766442446~exp=1766442746~acl=/*~hmac=07923f5d742cb05cb39564aed018feb24b68505e6e71e7d7318135364635dcbc
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1766442593~exp=1766442893~acl=/*~hmac=a4d5fb7e1404a85427b36fcaade5127548c880fbd441a5105bcb1be12e697cc3
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
