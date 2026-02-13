@@ -27,6 +27,9 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://uvotv.zappr.stream/281.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/raisport.png" group-title="Rai",Rai Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -118,9 +121,6 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/raisport+hd.png" group-title="Rai",Rai Sport
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/sportitalia.png" group-title="Altro",Sportitalia
