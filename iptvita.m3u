@@ -27,16 +27,16 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea92608afe474aea9485e5ab76dc6878:82f1f54fdc0e4a9c84dfc724fc6d5a65,ac21dbb4f0f646ec8fbda59fc53ab924:12df01146bdb685515f18b3f9380f796,052d707f2fc640a292b1548c71c4003c:aa043cb744963188ed7bec283b763d6c,94aa75fe2fca4b0891addf36760b6243:3ce405a9ffef366d05079124b1966503,fdae53ded91e4d4299accc4f0153bba9:95f1177a20f6e637d2a9c3db2ccaa901,5f2f92df28974bb3861744d420b458c9:ba3164674e98355207e0dfabcaff2900,c09bccec7f144da6b68d3d7f3f9c53bd:9cd2a48d6156bcd67aba0012a96464d2,3cb2222edfc445c6bfcd98251d980a2e:0edb8b090f2b155adabd5db806da5ffa
-https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQBDw3tmJht7CKRCDocTJA","k":"q-QS_jm6Xv9v9Xamzdi4RQ"},{"kty":"oct","kid":"AQFSrXujQD_jHeTvG5oJiw","k":"4HBZqVIysI4MT2Ami4PNcA"},{"kty":"oct","kid":"AQIHn5ShUqtCIo1UHYlaEg","k":"ED7XMigRe-_DFvNhE9MiXg"}],"type":"temporary"}
+https://api.zappr.stream/nove.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nhSDMuxkQZCXazwS5Zqh1A","k":"KhuiXb1Q22vT9ceNIjdKXg"},{"kty":"oct","kid":"Lw5_OV_-TKOxPieLf9T-SQ","k":"C8Wxa0KYdpmrXMxCfS06mw"},{"kty":"oct","kid":"23MQ0DwPQPaidKOgPJSjlQ","k":"OZ7BlV56HCDdQ0cIDggFSQ"},{"kty":"oct","kid":"2UGC4DhDRUKKygfVae0rWQ","k":"hDZnfVY0xDBoFAXcz92_vw"}],"type":"temporary"}
-https://d2op4s24rubfe0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up3xdjecl66jn/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQD34ekgOdy_KNha9R4fow","k":"pwrkG8DPGt_VhWPmLRv7jw"},{"kty":"oct","kid":"AQGzGIS-ZZM9uzqUsybRCA","k":"TC6SI_PhXMNIT_G4jfvP_w"},{"kty":"oct","kid":"AQIVVXyJi3MKFkBfxqfVlA","k":"Dh6RgyVbHbUlplaflGMQNg"}],"type":"temporary"}
+https://api.zappr.stream/realtime.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/raisport.png" group-title="Rai",Rai Sport
