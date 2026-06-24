@@ -30,14 +30,17 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQBDw3tmJht7CKRCDocTJA","k":"q-QS_jm6Xv9v9Xamzdi4RQ"},{"kty":"oct","kid":"AQFSrXujQD_jHeTvG5oJiw","k":"4HBZqVIysI4MT2Ami4PNcA"},{"kty":"oct","kid":"AQIHn5ShUqtCIo1UHYlaEg","k":"ED7XMigRe-_DFvNhE9MiXg"},{"kty":"oct","kid":"AQUfK12xmxP-dAK00eU_tg","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.chooser_resolution_max=720p
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.chooser_bandwidth_max=5500000
 https://api.zappr.stream/nove.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQD34ekgOdy_KNha9R4fow","k":"pwrkG8DPGt_VhWPmLRv7jw"},{"kty":"oct","kid":"AQGzGIS-ZZM9uzqUsybRCA","k":"TC6SI_PhXMNIT_G4jfvP_w"},{"kty":"oct","kid":"AQIVVXyJi3MKFkBfxqfVlA","k":"Dh6RgyVbHbUlplaflGMQNg"},{"kty":"oct","kid":"AQUvhrg3BWWd4Yqel9nOgw","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.max_bandwidth=4000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=5500000
 https://api.zappr.stream/realtime.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
