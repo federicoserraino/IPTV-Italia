@@ -29,19 +29,14 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQBDw3tmJht7CKRCDocTJA","k":"q-QS_jm6Xv9v9Xamzdi4RQ"},{"kty":"oct","kid":"AQFSrXujQD_jHeTvG5oJiw","k":"4HBZqVIysI4MT2Ami4PNcA"},{"kty":"oct","kid":"AQIHn5ShUqtCIo1UHYlaEg","k":"ED7XMigRe-_DFvNhE9MiXg"},{"kty":"oct","kid":"AQUfK12xmxP-dAK00eU_tg","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.chooser_resolution_max=720p
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
-#KODIPROP:inputstream.adaptive.chooser_bandwidth_max=5500000
-https://api.zappr.stream/nove.mpd?clearkeyPlayer.maxQuality=720
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OYycfGPOouEsKXVu_TGhQ","k":"QP5sJr4J5WePtympq2mzNg"}],"type":"temporary"}
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQD34ekgOdy_KNha9R4fow","k":"pwrkG8DPGt_VhWPmLRv7jw"},{"kty":"oct","kid":"AQGzGIS-ZZM9uzqUsybRCA","k":"TC6SI_PhXMNIT_G4jfvP_w"},{"kty":"oct","kid":"AQIVVXyJi3MKFkBfxqfVlA","k":"Dh6RgyVbHbUlplaflGMQNg"},{"kty":"oct","kid":"AQUvhrg3BWWd4Yqel9nOgw","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.max_bandwidth=5500000
-https://api.zappr.stream/realtime.mpd?clearkeyPlayer.maxQuality=720
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dUU_pzIvS4uBsoVSm3JuYw","k":"ynm9JlvmrHMVVVqhu-pq_g"},{"kty":"oct","kid":"YOuN26cRORWRS4ZWYv7L2w","k":"ispu3dCigPOd3HU3K-Kv2Q"}],"type":"temporary"}
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09319/stb-dash-fhd-avc/SV09319.mpd
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/raisport.png" group-title="Rai",Rai Sport
@@ -62,6 +57,9 @@ https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/st
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
@@ -122,9 +120,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/federicoserraino/IPTV-Italia/logos/sportitalia.png" group-title="Altro",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 # Canali Radio
